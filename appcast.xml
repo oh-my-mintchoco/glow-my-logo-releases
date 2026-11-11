@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Glow My Logo</title>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Glow My Logo</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 11 Nov 2026 10:36:22 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[First release.
+
+- Keeps the MacBook Pro lid logo lit at the brightness you set, whatever the screen brightness is.
+- Works in clamshell mode while an external display is connected.
+- Fades the logo in and out, and turns it off when the Mac sleeps.
+- Menu bar app with open at login, automatic updates and 8 languages.
+
+Requires a MacBook Pro with PROLED XDR display and macOS 27.2 or later. Tested on the 16-inch M5 Pro.
+]]></description>
+            <enclosure url="https://github.com/oh-my-mintchoco/glow-my-logo-releases/releases/download/v0.1.0/GlowMyLogo-0.1.0.zip" length="2213082" type="application/octet-stream" sparkle:edSignature="JjsRA935+PIGeo8Ji9FoVE1/KcLvfL/SzKYVDtW1q1AMnkOUamry/ZH/XFln8B+RuQD2kTtnei1GT4YLj3gaBw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: +8ls1hMFYBFSJLAryef9HMiYAFsMgxLmHlDLPKYCYJsK0vrzTbEcNstH3lmMTFgASshpIOsO/LqivY1t4A8XAQ==
+length: 1662
+-->
