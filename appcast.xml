@@ -1,8 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Glow My Logo</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 11 Nov 2026 11:02:14 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- The About window now shows the developer name and a contact email.
+]]></description>
+            <enclosure url="https://github.com/oh-my-mintchoco/glow-my-logo-releases/releases/download/v0.1.1/GlowMyLogo-0.1.1.zip" length="2213218" type="application/octet-stream" sparkle:edSignature="2mDyg9Akd1esIKXUatLxtvLFjhT4I78KsQTCC413HN4TtrrisrvTkKB02Y3NE/ZfNWn9+dy1xi0xY9PnfQfdBA=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Wed, 11 Nov 2026 10:36:22 +0900</pubDate>
@@ -19,10 +32,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 Requires a MacBook Pro with PROLED XDR display and macOS 27.2 or later. Tested on the 16-inch M5 Pro.
 ]]></description>
-            <enclosure url="https://github.com/oh-my-mintchoco/glow-my-logo-releases/releases/download/v0.1.0/GlowMyLogo-0.1.0.zip" length="2213082" type="application/octet-stream" sparkle:edSignature="JjsRA935+PIGeo8Ji9FoVE1/KcLvfL/SzKYVDtW1q1AMnkOUamry/ZH/XFln8B+RuQD2kTtnei1GT4YLj3gaBw=="></enclosure>
+            <enclosure url="https://github.com/oh-my-mintchoco/glow-my-logo-releases/releases/download/v0.1.0/GlowMyLogo-0.1.0.zip" length="2213082" type="application/octet-stream" sparkle:edSignature="JjsRA935+PIGeo8Ji9FoVE1/KcLvfL/SzKYVDtW1q1AMnkOUamry/ZH/XFln8B+RuQD2kTtnei1GT4YLj3gaBw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: +8ls1hMFYBFSJLAryef9HMiYAFsMgxLmHlDLPKYCYJsK0vrzTbEcNstH3lmMTFgASshpIOsO/LqivY1t4A8XAQ==
-length: 1662
+</rss>
+<!-- sparkle-signatures:
+edSignature: ly+Kdy6pXUF2gh5Ie2x0386noHg5rGH5187wclm9n/ithLntKZXgkPd9VwQI5hOfF+be/p9U/7h0ET1uorZRDg==
+length: 2503
 -->
